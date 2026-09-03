@@ -4,8 +4,8 @@
   border: 1px solid black;
   color: black;
   font-family: Arial;
-
-
+  width: 22%;
+  margin-right: 3%;
 }
 .kort img {
   max-width: 100%;
